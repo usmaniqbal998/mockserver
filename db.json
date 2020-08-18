@@ -1,15 +1,4 @@
 {
-  "Websites": [
-    {
-      "id": 1,
-      "name": "avenueatyork.com"
-    },
-    {
-      "id": 2,
-      "name": "https://www.livethekendrick.com/"
-    }
-  ],
-
   "sources-avenueatyork": [
     {
       "id": "pws",
@@ -61,7 +50,6 @@
       "Channel": "Callcenter"
     }
   ],
-
   "DNI-avenueatyork": {
     "tel": "111-111-111"
   }
