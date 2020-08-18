@@ -9,56 +9,60 @@
       "name": "https://www.livethekendrick.com/"
     }
   ],
+  "avenueatyork.com": {
+    "sources-avenueatyork": [
+      {
+        "id": "pws",
+        "tag": "pws",
+        "source": "PropertyWebsite",
+        "Shown_form": "Prospect & Agent"
+      },
+      {
+        "id": "rwg",
+        "tag": "rwg",
+        "source": "RentalsGoneWild.com",
+        "Shown_form": "Prospect & Agent"
+      },
+      {
+        "id": "apt",
+        "tag": "apt",
+        "source": "apartments.com",
+        "Shown_form": "Prospect & Agent"
+      }
+    ],
 
-  "sources-avenueatyork": [
-    {
-      "id": "pws",
-      "tag": "pws",
-      "source": "PropertyWebsite",
-      "Shown_form": "Prospect & Agent"
-    },
-    {
-      "id": "rwg",
-      "tag": "rwg",
-      "source": "RentalsGoneWild.com",
-      "Shown_form": "Prospect & Agent"
-    },
-    {
-      "id": "apt",
-      "tag": "apt",
-      "source": "apartments.com",
-      "Shown_form": "Prospect & Agent"
-    }
-  ],
+    "medium-avenueatyork": [
+      {
+        "id": "e",
+        "Medium": "Email"
+      },
+      {
+        "id": "p",
+        "Medium": "Phone"
+      },
+      {
+        "id": "wi",
+        "Medium": "Walk-In"
+      }
+    ],
 
-  "medium-avenueatyork": [
-    {
-      "id": "e",
-      "Medium": "Email"
-    },
-    {
-      "id": "p",
-      "Medium": "Phone"
-    },
-    {
-      "id": "wi",
-      "Medium": "Walk-In"
+    "content-avenueatyork": [],
+    "channel-avenueatyork": [
+      {
+        "id": "ag",
+        "Channel": "Agent"
+      },
+      {
+        "id": "api",
+        "Channel": "API"
+      },
+      {
+        "id": "cc",
+        "Channel": "Callcenter"
+      }
+    ],
+    "DNI": {
+      "tel": "111-111-111"
     }
-  ],
-
-  "content-avenueatyork": [],
-  "channel-avenueatyork": [
-    {
-      "id": "ag",
-      "Channel": "Agent"
-    },
-    {
-      "id": "api",
-      "Channel": "API"
-    },
-    {
-      "id": "cc",
-      "Channel": "Callcenter"
-    }
-  ]
+  }
 }
