@@ -8,5 +8,26 @@
       "id": 2,
       "name": "https://www.livethekendrick.com/"
     }
+  ],
+
+  "sources-avenueatyork": [
+    {
+      "id": "pws",
+      "tag": "pws",
+      "name": "PropertyWebsite",
+      "Shown_form": "Prospect & Agent"
+    },
+    {
+      "id": "pws",
+      "tag": "pws",
+      "name": "PropertyWebsite",
+      "Shown_form": "Prospect & Agent"
+    },
+    {
+      "id": "aay",
+      "tag": "aay",
+      "name": "avenueatyork.com",
+      "Shown_form": "Prospect & Agent"
+    }
   ]
 }
