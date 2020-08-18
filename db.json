@@ -14,20 +14,51 @@
     {
       "id": "pws",
       "tag": "pws",
-      "name": "PropertyWebsite",
+      "source": "PropertyWebsite",
       "Shown_form": "Prospect & Agent"
     },
     {
-      "id": "pws",
-      "tag": "pws",
-      "name": "PropertyWebsite",
+      "id": "rwg",
+      "tag": "rwg",
+      "source": "RentalsGoneWild.com",
       "Shown_form": "Prospect & Agent"
     },
     {
-      "id": "aay",
-      "tag": "aay",
-      "name": "avenueatyork.com",
+      "id": "apt",
+      "tag": "apt",
+      "source": "apartments.com",
       "Shown_form": "Prospect & Agent"
+    }
+  ],
+
+  "medium-avenueatyork": [
+    {
+      "id": "e",
+      "Medium": "Email"
+    },
+    {
+      "id": "p",
+      "Medium": "Phone"
+    },
+    {
+      "id": "wi",
+      "Medium": "Walk-In"
+    }
+  ],
+
+  "content-avenueatyork": [],
+  "channel-avenueatyork": [
+    {
+      "id": "ag",
+      "Channel": "Agent"
+    },
+    {
+      "id": "api",
+      "Channel": "API"
+    },
+    {
+      "id": "cc",
+      "Channel": "Callcenter"
     }
   ]
 }
