@@ -17,6 +17,24 @@
       "tag": "apt",
       "source": "apartments.com",
       "Shown_form": "Prospect & Agent"
+    },
+    {
+      "id": "PropertyWebsite",
+      "tag": "pws",
+      "source": "PropertyWebsite",
+      "Shown_form": "Prospect & Agent"
+    },
+    {
+      "id": "RentalsGoneWild.com",
+      "tag": "rwg",
+      "source": "RentalsGoneWild.com",
+      "Shown_form": "Prospect & Agent"
+    },
+    {
+      "id": "apartments.com",
+      "tag": "apt",
+      "source": "apartments.com",
+      "Shown_form": "Prospect & Agent"
     }
   ],
 
