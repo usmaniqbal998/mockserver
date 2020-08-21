@@ -38,20 +38,27 @@
     }
   ],
 
-  "medium-avenueatyork": [
-    {
-      "id": "e",
-      "Medium": "Email"
-    },
-    {
-      "id": "p",
-      "Medium": "Phone"
-    },
-    {
-      "id": "wi",
-      "Medium": "Walk-In"
+  "hybeacon": {
+    "medium-avenueatyork": [
+      {
+        "id": "e",
+        "Medium": "Email"
+      },
+      {
+        "id": "p",
+        "Medium": "Phone"
+      },
+      {
+        "id": "wi",
+        "Medium": "Walk-In"
+      }
+    ],
+
+    "src": {
+      "id": "apartment.com",
+      "src": "w.apt.add"
     }
-  ],
+  },
 
   "content-avenueatyork": [],
   "channel-avenueatyork": [
