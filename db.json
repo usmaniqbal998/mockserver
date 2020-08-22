@@ -50,6 +50,10 @@
     {
       "id": "wi",
       "Medium": "Walk-In"
+    },
+    {
+      "id": "w",
+      "Medium": "Website"
     }
   ],
 
