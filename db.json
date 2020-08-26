@@ -35,6 +35,18 @@
       "tag": "apt",
       "source": "apartments.com",
       "Shown_form": "Prospect & Agent"
+    },
+    {
+      "id": "RentalsGoneWild",
+      "tag": "rwg",
+      "source": "RentalsGoneWild",
+      "Shown_form": "Prospect & Agent"
+    },
+    {
+      "id": "apartments",
+      "tag": "apt",
+      "source": "apartments",
+      "Shown_form": "Prospect & Agent"
     }
   ],
 
