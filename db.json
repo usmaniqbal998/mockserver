@@ -39,13 +39,13 @@
     {
       "id": "RentalsGoneWild",
       "tag": "rwg",
-      "source": "RentalsGoneWild",
+      "source": "RentalsGoneWild.com",
       "Shown_form": "Prospect & Agent"
     },
     {
       "id": "apartments",
       "tag": "apt",
-      "source": "apartments",
+      "source": "apartments.com",
       "Shown_form": "Prospect & Agent"
     }
   ],
