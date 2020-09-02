@@ -84,7 +84,10 @@
       "Channel": "Callcenter"
     }
   ],
-  "DNI-avenueatyork": {
-    "tel": "111-111-111"
-  }
+  "DNI-avenueatyork": [
+    {
+      "id": "apartments.com",
+      "tel": "111-111-111"
+    }
+  ]
 }
