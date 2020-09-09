@@ -5,6 +5,18 @@
       "tag": "pws",
       "source": "PropertyWebsite",
       "Shown_form": "Prospect & Agent"
+    },{
+    "id":"apartmentfinder.com"
+       "tag": "apartmentfinder.com",
+      "source": "ApartmentFinder.com",
+      "Shown_form": "Prospect & Agent"
+    },{
+    {
+    "id":"S000000041"
+       "tag": "S000000041",
+      "source": "ApartmentFinder.com",
+      "Shown_form": "Prospect & Agent"
+    }
     },
     {
       "id": "rwg",
@@ -15,6 +27,17 @@
     {
       "id": "apt",
       "tag": "apt",
+      "source": "apartments.com",
+      "Shown_form": "Prospect & Agent"
+    },{
+      "id":"apts",
+       "tag": "apts",
+      "source": "apartments.com",
+      "Shown_form": "Prospect & Agent"
+    },
+    {
+    "id":"S000000005",
+       "tag": "S000000005",
       "source": "apartments.com",
       "Shown_form": "Prospect & Agent"
     },
@@ -82,7 +105,17 @@
     {
       "id": "cc",
       "Channel": "Callcenter"
+    },
+    
+    {
+      "id": "pr",
+      "Channel": "Prospect"
+    },
+    {
+      "id": "file",
+      "Channel": "File"
     }
+    
   ],
   "DNI-avenueatyork": [
     {
