@@ -22,6 +22,11 @@
       "source": "ApartmentFinder.com",
       "Shown_form": "Prospect & Agent"
     
+    },{
+     "id": "Google My Business",
+      "tag": "Google My Business",
+      "source": "Google My Business",
+      "Shown_form": "Prospect & Agent"
     },
     {
       "id": "rwg",
